@@ -1,9 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is B. Sebastian
-====================================================================================================================================
-
-software engineer, structural engineer
---------------------------------------
-
 Experienced professional with a dual background in structural engineering and software engineering. Specialized in the design and analysis of physical structures, ensuring safety and functionality. Proficient in leveraging programming skills to enhance structural engineering processes, develop tools, and streamline workflows. Adept at bridging the gap between traditional engineering practices and modern technological advancements. Offers a unique skill set combining structural expertise with software development proficiency, contributing to innovation in both fields.
 
 *   🌍  I'm based in Romania
